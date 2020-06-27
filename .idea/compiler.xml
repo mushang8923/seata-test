@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="labx-17-sca-seata-at-dubbo-demo-account-service-api" />
+        <module name="labx-17-sca-seata-at-dubbo-demo" />
+        <module name="labx-17-sca-seata-at-dubbo-demo-account-service" />
+        <module name="labx-17-sc-seata-at-feign-demo" />
+        <module name="labx-17-sc-seata-at-feign-demo-account-service" />
+        <module name="labx-17-sc-seata-at-feign-demo-order-service" />
+        <module name="labx-17-sc-seata-at-feign-demo-product-service" />
+        <module name="labx-17-sca-seata-at-dubbo-demo-product-service" />
+        <module name="labx-17-sca-seata-at-dubbo-demo-order-service" />
+        <module name="labx-17-sca-seata-at-dubbo-demo-order-service-api" />
+        <module name="labx-17-sca-seata-at-dubbo-demo-product-service-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="labx-17" target="1.8" />
+      <module name="labx-17-sc-seata-at-feign-demo" target="1.8" />
+      <module name="labx-17-sc-seata-at-feign-demo-account-service" target="1.8" />
+      <module name="labx-17-sc-seata-at-feign-demo-order-service" target="1.8" />
+      <module name="labx-17-sc-seata-at-feign-demo-product-service" target="1.8" />
+      <module name="labx-17-sca-seata-at-dubbo-demo" target="1.8" />
+      <module name="labx-17-sca-seata-at-dubbo-demo-account-service" target="1.8" />
+      <module name="labx-17-sca-seata-at-dubbo-demo-account-service-api" target="1.8" />
+      <module name="labx-17-sca-seata-at-dubbo-demo-order-service" target="1.8" />
+      <module name="labx-17-sca-seata-at-dubbo-demo-order-service-api" target="1.8" />
+      <module name="labx-17-sca-seata-at-dubbo-demo-product-service" target="1.8" />
+      <module name="labx-17-sca-seata-at-dubbo-demo-product-service-api" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

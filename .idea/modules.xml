@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/labx-17.iml" filepath="$PROJECT_DIR$/labx-17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labx-17-sc-seata-at-feign-demo/labx-17-sc-seata-at-feign-demo.iml" filepath="$PROJECT_DIR$/labx-17-sc-seata-at-feign-demo/labx-17-sc-seata-at-feign-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labx-17-sc-seata-at-feign-demo/labx-17-sc-seata-at-feign-demo-account-service/labx-17-sc-seata-at-feign-demo-account-service.iml" filepath="$PROJECT_DIR$/labx-17-sc-seata-at-feign-demo/labx-17-sc-seata-at-feign-demo-account-service/labx-17-sc-seata-at-feign-demo-account-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labx-17-sc-seata-at-feign-demo/labx-17-sc-seata-at-feign-demo-order-service/labx-17-sc-seata-at-feign-demo-order-service.iml" filepath="$PROJECT_DIR$/labx-17-sc-seata-at-feign-demo/labx-17-sc-seata-at-feign-demo-order-service/labx-17-sc-seata-at-feign-demo-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labx-17-sc-seata-at-feign-demo/labx-17-sc-seata-at-feign-demo-product-service/labx-17-sc-seata-at-feign-demo-product-service.iml" filepath="$PROJECT_DIR$/labx-17-sc-seata-at-feign-demo/labx-17-sc-seata-at-feign-demo-product-service/labx-17-sc-seata-at-feign-demo-product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labx-17-sca-seata-at-dubbo-demo/labx-17-sca-seata-at-dubbo-demo.iml" filepath="$PROJECT_DIR$/labx-17-sca-seata-at-dubbo-demo/labx-17-sca-seata-at-dubbo-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labx-17-sca-seata-at-dubbo-demo/labx-17-sca-seata-at-dubbo-demo-account-service/labx-17-sca-seata-at-dubbo-demo-account-service.iml" filepath="$PROJECT_DIR$/labx-17-sca-seata-at-dubbo-demo/labx-17-sca-seata-at-dubbo-demo-account-service/labx-17-sca-seata-at-dubbo-demo-account-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labx-17-sca-seata-at-dubbo-demo/labx-17-sca-seata-at-dubbo-demo-account-service-api/labx-17-sca-seata-at-dubbo-demo-account-service-api.iml" filepath="$PROJECT_DIR$/labx-17-sca-seata-at-dubbo-demo/labx-17-sca-seata-at-dubbo-demo-account-service-api/labx-17-sca-seata-at-dubbo-demo-account-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labx-17-sca-seata-at-dubbo-demo/labx-17-sca-seata-at-dubbo-demo-order-service/labx-17-sca-seata-at-dubbo-demo-order-service.iml" filepath="$PROJECT_DIR$/labx-17-sca-seata-at-dubbo-demo/labx-17-sca-seata-at-dubbo-demo-order-service/labx-17-sca-seata-at-dubbo-demo-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labx-17-sca-seata-at-dubbo-demo/labx-17-sca-seata-at-dubbo-demo-order-service-api/labx-17-sca-seata-at-dubbo-demo-order-service-api.iml" filepath="$PROJECT_DIR$/labx-17-sca-seata-at-dubbo-demo/labx-17-sca-seata-at-dubbo-demo-order-service-api/labx-17-sca-seata-at-dubbo-demo-order-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labx-17-sca-seata-at-dubbo-demo/labx-17-sca-seata-at-dubbo-demo-product-service/labx-17-sca-seata-at-dubbo-demo-product-service.iml" filepath="$PROJECT_DIR$/labx-17-sca-seata-at-dubbo-demo/labx-17-sca-seata-at-dubbo-demo-product-service/labx-17-sca-seata-at-dubbo-demo-product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labx-17-sca-seata-at-dubbo-demo/labx-17-sca-seata-at-dubbo-demo-product-service-api/labx-17-sca-seata-at-dubbo-demo-product-service-api.iml" filepath="$PROJECT_DIR$/labx-17-sca-seata-at-dubbo-demo/labx-17-sca-seata-at-dubbo-demo-product-service-api/labx-17-sca-seata-at-dubbo-demo-product-service-api.iml" />
+    </modules>
+  </component>
+</project>
